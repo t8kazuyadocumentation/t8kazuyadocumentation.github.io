@@ -8,10 +8,10 @@ on Discord.
 
 Current Checklist:
 1. Useful Moves
-2. Punishes
+2. Punishes (wr8th)
 3. CD/Wavedash Tutorial
 4. Electric Tutorial & Variants
-5. DF2 Perfect Electric Tutorial
+5. DF2 Perfect Electric Tutorial (anders)
 6. Combo Routes
 7. Okizeme
 8. Tech
