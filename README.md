@@ -21,8 +21,7 @@ Current Checklist:
 -------This will be for general Tekken knowledge-------
 11. KBD Tutorial
 12. Frame Data & Buffering
-13. Grounded States
-14. Combo System Explanation
-15. Sidestep/walking
-16. Stage mechanics & positioning
-17. Useful Links
+13. Combo System Explanation
+14. Sidestep/walking
+15. Stage mechanics & positioning
+16. Useful Links
