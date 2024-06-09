@@ -17,10 +17,11 @@ Current Checklist:
 7. Combo Routes
 8. Okizeme
 9. Tech
+10. Heat Moves and System
 -------This will be for general Tekken knowledge-------
-10. KBD Tutorial
-11. Frame Data & Buffering
-12. Grounded States
+11. KBD Tutorial
+12. Frame Data & Buffering
 13. Combo System Explanation
 14. Sidestep/walking
 15. Stage mechanics & positioning
+16. Useful Links
