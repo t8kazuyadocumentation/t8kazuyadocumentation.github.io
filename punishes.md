@@ -64,3 +64,5 @@ Kazuya's Twin Pistons is a 22 damage Tornado launcher that is -12 on block. You 
 ### i16
 ws2 (Mid)
 Kazuya's ws2 is a homing 25 damage mid that gives a crumple stun on hit for a full combo. However, this move is launch punishable at -18!
+
+need to add in long range and situational punishers (post PC, demoman, death fist et cetera)
